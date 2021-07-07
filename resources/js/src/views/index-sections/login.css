@@ -1,0 +1,63 @@
+.card-register-login {
+    background-color: #FF8F5E;
+    border-radius: 8px;
+    color: #fff;
+    width: 650px;
+    margin: 20px 0 70px;
+    min-height: 400px;
+    padding: 0 20px 20px 20px; 
+}
+    .card-register-login label {
+      margin-top: 10px; }
+    .card-register-login .card-title {
+      color: #B33C12;
+      text-align: center; }
+    .card-register-login .btn {
+      margin-top: 30px; }
+    .card-register .forgot {
+      text-align: center; }
+    .card-register-login .input-group-text {
+      border: 1px solid #FFFFFF; }
+    .buttons-login { 
+        text-align:center;
+        }
+    
+    .login-label {
+        font-weight: bold; 
+        font-size: 15px;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: flex-end;
+    }
+    
+    .modal-close-button {
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1;
+      color: #000;
+      opacity: .3;
+      cursor: pointer;
+      border: none;
+    }
+    
+    /* button {
+      font-size: .9rem;
+      font-weight: 700;
+      border: none;
+      border-radius: 3px;
+      padding: .3rem 1rem;
+      margin-left: .5rem;
+    } */
+    
+    .button-default {
+      background: #247BA0;
+      color: #fff;
+    }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
